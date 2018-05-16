@@ -1,0 +1,36 @@
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
+
+.btn {
+    background: pink;
+    padding: 8px 10px 12px 16px;
+}
+
+#title {
+    color: black;
+    text-align: center;
+}
+.title-class{
+    color:blue;
+    text-align: center;
+    font-family: serif;
+    font-size: 30px
+}
+.title-class2{
+    color:green;
+    text-align: center;
+    font-family: serif;
+    font-size: 35px;
+} 
+
+body{
+ background-color:gold
+}
+
